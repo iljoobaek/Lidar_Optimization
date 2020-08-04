@@ -1,0 +1,4 @@
+initial_simple_virtual_scan: CUDA
+sorts: CUDA
+getVirtualScan: OpenMP
+Boundary Detection: None(raw)
